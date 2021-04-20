@@ -1,5 +1,5 @@
 {
-  "name": "iview-weapp",
+  "name": "iview",
   "version": "2.0.0",
   "description": "高质量微信小程序 UI 组件库",
   "main": "app.js",
@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:iview/iview-weapp.git"
+    "url": "git+ssh://git@github.com:opamine/iView.git"
   },
-  "author": "Aresn",
+  "author": "Dopamine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iview/iview-weapp/issues"
+    "url": "https://github.com/opamine/iView/issues"
   },
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/iview/iview-weapp",
+  "homepage": "https://github.com/opamine/iView",
   "devDependencies": {
     "eslint": "^3.19.0",
     "gulp": "^3.9.1",

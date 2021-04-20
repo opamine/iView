@@ -26,7 +26,7 @@ Page({
 
     onShareAppMessage() {
         return {
-            title: 'iView Weapp',
+            title: 'iView',
             imageUrl: 'https://file.iviewui.com/iview-weapp-logo.png'
         };
     },
