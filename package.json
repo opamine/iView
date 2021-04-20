@@ -1,6 +1,6 @@
 {
   "name": "iview",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "高质量微信小程序 UI 组件库",
   "main": "app.js",
   "directories": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/opamine/iView",
   "devDependencies": {
     "eslint": "^3.19.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.9.3",
     "gulp-less": "^4.0.0",
     "gulp-rename": "^1.2.2",

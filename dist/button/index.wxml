@@ -17,5 +17,4 @@
     bindgetphonenumber="bindgetphonenumber"
     binderror="binderror"
     plain="true"
-    disabled="{{disabled}}"
 ><view class="i-btn-loading-inner" wx:if="{{loading}}"></view><slot></slot></button>

@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/icon/index",
     "pages/color/index",
@@ -46,5 +46,6 @@
     "backgroundTextStyle": "dark",
     "backgroundColor": "#f9f9f9"
   },
-  "debug": true
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
 }
