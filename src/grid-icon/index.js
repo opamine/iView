@@ -1,10 +1,9 @@
 Component({
-    externalClasses: ['i-class'],
+  externalClasses: ["i-class"],
 
-    relations: {
-        '../grid-item/index': {
-            type: 'parent'
-        }
+  relations: {
+    "../grid-item/index": {
+      type: "parent",
     },
-
+  },
 });
