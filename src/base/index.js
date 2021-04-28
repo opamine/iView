@@ -31,7 +31,12 @@ function Message(options) {
   ctx.handleShow(options);
 }
 
+// 调用 $Message 时 可直接通过 $Message(content, type) 达到效果
+function CustomMessage(content, type) {
+  Message({content, type});
+}
+
 module.exports = {
   $Toast: Toast,
-  $Message: Message,
+  $Message: CustomMessage,
 };
